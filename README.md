@@ -139,8 +139,8 @@ brew install python3 node git
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/amansaikrishna/Exam-Allocation-System/tree/main
-cd ExamAlloc
+git clone https://github.com/amansaikrishna/Exam-Allocation-System
+cd Exam-Allocation-System
 ```
 
 ---
