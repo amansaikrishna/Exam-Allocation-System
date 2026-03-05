@@ -61,7 +61,7 @@ export default function LoginPage() {
             <div className="mt-8 pt-5 border-t">
               <div className="bg-muted rounded-xl p-4 text-center space-y-1">
                 <p className="text-xs font-mono"><strong>Admin:</strong> admin / admin123</p>
-                <p className="text-xs font-mono"><strong>Students:</strong> rollno (lowercase) / rollno@first4</p>
+                <p className="text-xs font-mono"><strong>Students:</strong> rollno (lowercase) / rollno@first4lettersofname</p>
               </div>
             </div>
           </CardContent>
